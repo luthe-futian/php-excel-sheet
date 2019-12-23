@@ -2,6 +2,7 @@
 phpExcel在Thinkphp5中的应用，可生成多个sheet
 
 使用方法
+composer require phpoffice/phpexcel
 
 $excel = new Excel();
 
